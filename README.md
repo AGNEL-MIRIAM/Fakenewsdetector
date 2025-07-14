@@ -48,7 +48,7 @@ streamlit run app.py
 
 ---
 
-## 📁 Project Structure
+## 📁 **Project Structure**
 
 ```
 fakenewsdetector/
