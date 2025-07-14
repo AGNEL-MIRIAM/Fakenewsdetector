@@ -58,14 +58,13 @@ fakenewsdetector/
 ├── README.md              # This file
 └── .gitignore             # Ignore rules
 ```
+
 ---
 
-📄 License
+##📄 **License**
 Licensed under the MIT License
 
-
 ---
-
 
 ## 🙋‍♀️ Author
 
