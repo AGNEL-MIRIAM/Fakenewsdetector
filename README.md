@@ -21,6 +21,13 @@ A web app that classifies news articles as **real or fake** using a fine-tuned B
 
 ---
 
+## 🔗 Hosted Model
+
+The BERT model used in this fake news detection project is trained and hosted on Hugging Face Hub:
+
+👉 [View the Model on Hugging Face](https://huggingface.co/miriamagnel/bert-fake-news-detector)
+---
+
 ## 💻 Installation & Usage
 
 1. **Clone this repository**
