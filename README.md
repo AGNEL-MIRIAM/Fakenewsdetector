@@ -26,6 +26,7 @@ A web app that classifies news articles as **real or fake** using a fine-tuned B
 The BERT model used in this fake news detection project is trained and hosted on Hugging Face Hub:
 
 👉 [View the Model on Hugging Face](https://huggingface.co/miriamagnel/bert-fake-news-detector)
+
 ---
 
 ## 💻 Installation & Usage
@@ -45,7 +46,7 @@ pip install -r requirements.txt
 # Run the Streamlit app
 streamlit run app.py
 
-
+---
 
 ## 📁 Project Structure
 
@@ -61,7 +62,7 @@ fakenewsdetector/
 📄 License
 Licensed under the MIT License
 
-
+---
 
 ## 🙋‍♀️ Author
 
