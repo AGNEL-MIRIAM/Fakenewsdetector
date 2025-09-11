@@ -1,4 +1,4 @@
-# 📰 Fake News Detector using BERT & Streamlit
+# 📰 AI-Based Fake News Detector using BERT
 
 A web app that classifies news articles as **real or fake** using a fine-tuned BERT model and a clean Streamlit interface. Model was trained in Google Colab and deployed locally.
 
